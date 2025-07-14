@@ -4,7 +4,7 @@
 
 Every semester, Purdue students face the same challenge: buying and selling gear. Textbooks, mini-fridges, bikes, that extra desk lamp... it's a hassle. Boiler Store is here to change that. We're building **Purdue's official, secure, and student-first marketplace.**
 
-# http://bit.ly/3GIDBpd
+# https://app--boiler-marketplace-574dd06a.base44.app
 ![Home Page](image.png)
 
 ### 🤔 Why Boiler Store?
